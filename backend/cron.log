@@ -1,0 +1,853 @@
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+Traceback (most recent call last):
+  File "/mnt/c/Server Dashboard/backend/send_metrics_linux.py", line 26, in <module>
+    cpu_usage = 100 - float(run("top -bn1 | grep 'Cpu(s)' | awk '{print $8}'").split('.')[0])
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'id,'
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+ERROR: You need to be root to run this script
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+✅ Metrics inserted into database successfully.
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
+Metrics sent successfully. Response: {"error":"Unauthorized or invalid API Key."}
+❌ Database error: 1406 (22001): Data too long for column 'os_version' at row 1
